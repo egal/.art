@@ -1,3 +1,2 @@
-New release of **[$REPOSITORY_NAME]($REPOSITORY_URL)**: **[$VERSION]($RELEASE_URL)**!
-
-For more details see [changelog]($CHANGELOG_URL).
+*New release of __[$REPOSITORY_NAME]($REPOSITORY_URL)__: __[$VERSION]($RELEASE_URL)!__*
+*For more details see [changelog]($CHANGELOG_URL).*
