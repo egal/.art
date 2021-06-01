@@ -1,1 +1,1 @@
-New release of **[$REPO_NAME]($REPO_URL)**: **$VERSION**!
+New release of **[$REPOSITORY_NAME]($REPOSITORY_URL)**: **$VERSION**!
