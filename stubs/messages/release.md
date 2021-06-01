@@ -1,1 +1,1 @@
-New release of **{{REPO}}**: **{{VERSION}}**!
+New release of **$REPO**: **$VERSION**!
